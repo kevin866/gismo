@@ -31,7 +31,7 @@ std::string size(const gsMatrix<T>& matrix)
 int main(int argc, char* argv[])
 {
 
-    std::string input("surfaces/simple.xml");
+    std::string input("surfaces/output.xml");
     std::string output("");
 
     gsCmdLine cmd("Tutorial on gsGeometry class.");

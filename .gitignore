@@ -37,3 +37,6 @@ CMakeFiles/
 
 #Mac OS
 **/.DS_Store
+
+#python virtual enviorment
+.venv
